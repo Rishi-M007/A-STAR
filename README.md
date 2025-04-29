@@ -1,4 +1,4 @@
-[<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
+<h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
 <h3>Name: RISHI M</h3>
 <h3>Register Number: 21222230119</h3>
 <H3>Aim:</H3>
